@@ -1,3 +1,2 @@
-INSERT INTO order_details
-(discount) 
-VALUES(15);
+UPDATE order_details
+SET discount = 15;
